@@ -21,3 +21,8 @@ li a:visited{
 li a:hover{
     color: pink;
 }
+
+ul > li:first-child::first-letter{
+    font-weight: bold;
+    font-size: 120%;
+}
