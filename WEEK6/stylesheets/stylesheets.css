@@ -22,7 +22,12 @@ li a:hover{
     color: pink;
 }
 
+[title="BCIT homepage"]{
+    background-color: yellow;
+}
+
 ul > li:first-child::first-letter{
     font-weight: bold;
     font-size: 120%;
 }
+
