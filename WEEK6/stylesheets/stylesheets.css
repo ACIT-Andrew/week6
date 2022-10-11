@@ -1,4 +1,4 @@
-div.container h2 {
+/* div.container h2 {
     font-style: italic;
 }
 h2 + p{
@@ -8,4 +8,16 @@ ul.list > li{
     list-style: none;
     border-color: grey;
     border-bottom: 1px solid;
+} */
+
+li a:link{
+    color: green;
+}
+
+li a:visited{
+    color: red;
+}
+
+li a:hover{
+    color: pink;
 }
